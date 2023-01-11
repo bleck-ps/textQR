@@ -6,6 +6,8 @@ const alertpass = document.getElementById('alertpass');
 const cobru = document.getElementById('cobrooo');
 const monto = document.getElementById('monto');
 
+var idtar = undefined;
+
 let tarjeta1 = 750;
 let tarjeta2 = 1500;
 
